@@ -1,6 +1,3 @@
-![Nilima Shekh Nishi Banner](github-cover-photo.jpg)
-
-
 <p align="center">
   <img src="github-cover-photo.jpg" alt="Nilima Shekh Nishi Banner" width="100%">
 </p>
