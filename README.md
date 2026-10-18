@@ -1,6 +1,7 @@
 
 <p align="center">
- <img width="922" height="1152" alt="github-cover-photo" src="https://github.com/user-attachments/assets/94394de1-a919-4922-9915-2a2d7372dd26" />
+ <img width="850" height="270" alt="github-cover-photo" src="https://github.com/user-attachments/assets/c9608700-6991-4f9c-929e-24423694baf6" />
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Nilima Shekh Nishi</h1>
