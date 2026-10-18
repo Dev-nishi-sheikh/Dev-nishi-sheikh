@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="github-cover-photo.jpg" alt="Nilima Shekh Nishi Banner" width="100%">
+ <img width="922" height="1152" alt="github-cover-photo" src="https://github.com/user-attachments/assets/94394de1-a919-4922-9915-2a2d7372dd26" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nilima Shekh Nishi</h1>
