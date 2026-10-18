@@ -1,6 +1,14 @@
-# Hi there, I'm Nilima 👋
+![Nilima Shekh Nishi Banner](github-cover-photo.jpg)
 
-### 💻 Frontend Developer | Student | Tech Enthusiast
+
+<p align="center">
+  <img src="github-cover-photo.jpg" alt="Nilima Shekh Nishi Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Nilima Shekh Nishi</h1>
+<h3 align="center">Passionate Frontend Developer & Backend Learner</h3>
+
+<br>
 
 I'm a passionate Frontend Developer who loves building modern, responsive, and user-friendly web applications.
 
