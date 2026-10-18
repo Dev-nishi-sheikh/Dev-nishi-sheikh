@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Nilima 👋
 
-<!--
-**Dev-nishi-sheikh/Dev-nishi-sheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | Student | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate Frontend Developer who loves building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently studying Diploma in Computer Science and Technology.
+- 🌱 I'm learning React.js, TypeScript, and Next.js.
+- 💻 I enjoy building projects and learning new technologies.
+- 🚀 My goal is to become a professional Frontend Developer.
+
+### 🛠️ My Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+- Git & GitHub
+
+### 🚀 My Projects
+
+- 🛒 **Bazardor** — A market price web application.
+- 🏋️ **Fitlog** — A fitness-related web project.
+- 🌐 **My Portfolio** — My personal portfolio website.
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-nishi-sheikh&show_icons=true&theme=tokyonight)
+
+### 🌐 Connect With Me
+
+- **GitHub:** [Dev-nishi-sheikh](https://github.com/Dev-nishi-sheikh)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/nishi-shekh-683058421)
+
+---
+
+⭐ Thanks for visiting my profile!
