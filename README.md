@@ -69,6 +69,29 @@
 - [My Portfolio Website](https://portfolio-ejp-14.vercel.app/)
 
 ---
+## 📊 GitHub Statistics & Analysis
+
+### 🔗 GitHub Contributions
+
+![GitHub Contributions](https://ghchart.rshah.org/0e75b6/Dev-nishi-sheikh)
+
+### 📈 Repository Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Dev-nishi-sheikh&show_icons=true&theme=default&hide_border=true" alt="GitHub Repository Stats" />
+</p>
+
+### 🔥 GitHub Contributions & Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev-nishi-sheikh&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dev-nishi-sheikh&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">
   ⭐ Thanks for visiting my profile! 
